@@ -1,3 +1,3 @@
 # FullScreenVideo
 
-*Feito em html e css
+* Feito em html e css, implementado com um video. 
